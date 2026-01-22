@@ -2,7 +2,7 @@
 <h3 align="center">Electrical Engineering Undergraduate</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanuda-ats&label=Profile%20views&color=0e75b6&style=flat" alt="sanuda-ats" /> </p>
 
-- 🔭 I’m currently working on **Link2Memo Mobile App**
+- 🔭 I’m currently working on **Trailing Shopping Cart using a Wearable Audio Emitter and Microphone Array**
 
 - 🌱 I’m currently learning **Automation & Machine Learning**
 
